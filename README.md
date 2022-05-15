@@ -3,4 +3,4 @@ Analyze taxi rides data from New York. Extensive data exploration is performed, 
 # current state
 I'm currently experimenting with different feature sets and dataset sizes, however so far the results seem great (mean squared error around 0.04!). The notebook will periodically be updated with extra features.
 # libraries used
-pandas, numpy, scikit-learn, matplotlib, folium
+pandas, numpy, scikit-learn, matplotlib, seaborn, folium
